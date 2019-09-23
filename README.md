@@ -11,11 +11,18 @@ The Background testure is continuously scrolled and looped over to simulate a co
 # Techniques used
 
 ● Unity.
+
 ● C#.
+
 ● Blender.
+
 ● Components.
+
 ● Colliders and Triggers.
+
 ● Prefabs and Spawning.
+
 ● Texture Scrolling.
+
 ● Audio.
 
